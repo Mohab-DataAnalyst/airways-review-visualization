@@ -2,7 +2,7 @@
 ![Logo](https://c4.wallpaperflare.com/wallpaper/773/722/397/5bd3cd09e2d1d-wallpaper-preview.jpg)
 
 
-# British Airways Review - Tableau Dashboard ✈️📊
+# British Airways Review Visualization (Tableau) ✈️📊
 
 This Tableau dashboard analyzes **British Airways customer reviews** from **March 2016 to October 2023**. It provides dynamic insights into passenger experiences, ratings by different metrics, and trends over time.
 
